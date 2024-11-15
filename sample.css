@@ -8,7 +8,7 @@
     background:
     linear-gradient(135deg, #1e50ff 5%, transparent 5%) no-repeat,
     linear-gradient(to left, #1e50ff 30%, transparent 30%) no-repeat;
-    padding: 40px 0;
+    padding: 0 0;
     overflow: hidden;
 }
 
@@ -121,6 +121,7 @@
 .maritime-btn-primary:hover {
     background-color: white;
     color: #1e50ff;
+    border: 2px solid #1e50ff;
 }
 
 .maritime-btn-demo:hover {
